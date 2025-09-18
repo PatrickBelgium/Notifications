@@ -1,11 +1,13 @@
-# Notifications
-# General description
-Python script to generate notifications on smartphone with Pushsafer
+# Notifications python program : General description
+Python script running on a raspberry Pi device to generate notifications on your smartphone with Pushsafer\
+<img width="447" height="164" alt="afbeelding" src="https://github.com/user-attachments/assets/a6ffab2f-4798-49fd-8291-db0a044c7438" />
 
-# Python & Android related
-Python 3.9 version used\
-fill in personal data in **'personal.py'** before using the code\
-Tested on Android devices
+
+
+# Related prerequisites
+Python 3.9 version used on a device like Raspberry Pi 2b\
+fill in personal data in **'personal.py'** before using the Python code\
+Tested on Android devices with third party 'pushsafer' app installed
 
 # Third party needed setup
 Create account/register on https://www.pushsafer.com/ \
