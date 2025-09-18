@@ -3,13 +3,13 @@
 Python script to generate notifications on smartphone with Pushsafer
 
 # Python & Android related
-Python 3.9 version used
-fill in personal data in persoanl.py before using the code
+Python 3.9 version used\
+fill in personal data in **'personal.py'** before using the code\
 Tested on Android devices
 
 # Third party needed setup
 Create account/register on https://www.pushsafer.com/ \
-you receive private key which shall be used in the Python program \
+you receive private key which shall be used in the Python program\
 Buy with PayPal min.1000 calls for only 0.99€ (  or even less for more calls ) \
 create the Android device ( which have the app intalled ) on your dashboard at pushsafer \
 <img width="597" height="178" alt="afbeelding" src="https://github.com/user-attachments/assets/3628d40b-3cf1-4538-8591-51313035b462" />\
