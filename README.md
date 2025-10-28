@@ -5,7 +5,7 @@ generate notifications on your smartphone \
 # Related prerequisites
 > Python 3.9 \
 > activate ( free ) your personal account on https://www.pushsafer.com/ \
-> fill in personal data in **'MySecrets.py'** before using the Python code\
+> fill in personal data in **'MyExampleSecrets.py'** and rename the file **'MySecrets.py'** before using the Python code\
 > Tested on Android devices with third party 'pushsafer' app installed 
 
 # Third party needed setup
