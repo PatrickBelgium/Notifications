@@ -1,20 +1,19 @@
 # notifications
 generate notifications on your smartphone \
-test
-<img width="447" height="164" alt="afbeelding" src="https://github.com/user-attachments/assets/a6ffab2f-4798-49fd-8291-db0a044c7438" />
-
+<img width="222" height="159" alt="506424521-5277da29-2678-4e89-8d9d-84c6b3026894" src="https://github.com/user-attachments/assets/57b064ef-f449-4fc9-9ad6-4cc49533dd49" />
 
 # Related prerequisites
-Python 3.9 version used on a device like Raspberry Pi 2b\
-fill in personal data in **'MySecrets.py'** before using the Python code\
-Tested on Android devices with third party 'pushsafer' app installed
+> Python 3.9 \
+> activate ( free ) your personal account on https://www.pushsafer.com/ \
+> fill in personal data in **'MySecrets.py'** before using the Python code\
+> Tested on Android devices with third party 'pushsafer' app installed
 
 
 
 # Third party needed setup
 Create account/register on https://www.pushsafer.com/ \
 you receive private key which shall be used in the Python program\
-Buy with PayPal min.1000 calls for only 0.99€ (  or even less for more calls ) \
+Buy with PayPal min.1000 calls for only 0.99â‚¬ (  or even less for more calls ) \
 create the Android device ( which have the app intalled ) on your dashboard at pushsafer \
 <img width="597" height="178" alt="afbeelding" src="https://github.com/user-attachments/assets/3628d40b-3cf1-4538-8591-51313035b462" />\
 Install 'Pushsafer' on your Android device (this will be the 'app' generating the notifications called by your python program to pushsafer provider)\
